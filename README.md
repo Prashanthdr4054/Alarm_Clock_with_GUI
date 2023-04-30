@@ -1,1 +1,2 @@
-# Alarm_Clock_with_GUI
+# AlarmClock-in-python
+This is a alarm clock made in python
